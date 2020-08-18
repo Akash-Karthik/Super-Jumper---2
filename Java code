@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<title>Web Page Design</title>
+<head>
+<script>
+function sayHello() {
+   document.write("Welcome to super jumper !");
+}
+sayHello();
+</script>
+</head>
+<body>
+</body>
+</html>
